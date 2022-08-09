@@ -3,7 +3,7 @@
 ## How to use
 
 ```
-git clone 
+git clone https://github.com/nosu/recaptcha-enterprise-v2-invisible-sample.git
 cd recaptcha-enterprise-v2-invisible-sample
 npm install
 export PROJECTID=<Your Project ID>
